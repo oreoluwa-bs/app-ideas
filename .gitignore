@@ -1,1 +1,6 @@
 .DS_Store
+
+# env files (restored by security fix)
+.env
+.env.*
+!.env.example
